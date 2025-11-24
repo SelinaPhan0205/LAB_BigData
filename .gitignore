@@ -1,0 +1,20 @@
+# Bỏ toàn bộ thư mục Lab1
+Lab1/
+
+# Bỏ file dữ liệu trong Lab2
+Lab2/movies.txt
+Lab2/occupation.txt
+Lab2/ratings_1.txt
+Lab2/ratings_2.txt
+Lab2/users.txt
+
+# Bỏ file môi trường Python nếu có
+__pycache__/
+*.pyc
+
+# Bỏ file tạm / log
+*.log
+*.tmp
+
+# Bỏ VSCode
+.vscode/
