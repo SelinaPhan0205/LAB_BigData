@@ -1,0 +1,45 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/12/16 10:42:51 WARN Utils: Your hostname, SelinaPhan, resolves to a loopback address: 127.0.1.1; using 10.255.255.254 instead (on interface lo)
+25/12/16 10:42:51 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/12/16 10:42:52 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+================================================================================
+BAI 05: THONG KE DIEM DANH GIA TRUNG BINH VA SO LUONG DANH GIA
+THEO TUNG MUC (1 DEN 5)
+LUU Y: XU LY GIA TRI NGOAI LE VA NULL TRONG COT REVIEW_SCORE
+================================================================================
+
+THONG TIN VE DU LIEU:
+--------------------------------------------------------------------------------
+Tong so danh gia: 99,223
+Danh gia hop le (1-5): 99,223
+Danh gia khong hop le (NULL hoac ngoai le): 0
+
+Diem danh gia trung binh: 4.09
+
+================================================================================
+SO LUONG DANH GIA THEO TUNG MUC DIEM
+================================================================================
+       Muc diem         So luong danh gia       Ty le (%)
+--------------------------------------------------------------------------------
+              1                    11,424          11.51%
+              2                     3,151           3.18%
+              3                     8,179           8.24%
+              4                    19,141          19.29%
+              5                    57,328          57.78%
+--------------------------------------------------------------------------------
+      Tong cong                    99,223         100.00%
+================================================================================
+
+THONG KE BO SUNG:
+--------------------------------------------------------------------------------
+Danh gia tich cuc (4-5 sao): 76,469 (77.07%)
+Danh gia trung binh (3 sao): 8,179 (8.24%)
+Danh gia tieu cuc (1-2 sao): 14,575 (14.69%)
+================================================================================
+
+HOAN THANH BAI 05
+================================================================================

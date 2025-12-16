@@ -1,0 +1,28 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/12/16 10:40:17 WARN Utils: Your hostname, SelinaPhan, resolves to a loopback address: 127.0.1.1; using 10.255.255.254 instead (on interface lo)
+25/12/16 10:40:17 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/12/16 10:40:18 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[Stage 1:>                                                          (0 + 1) / 1]                                                                                ================================================================================
+BAI 02: THONG KE TONG SO DON HANG, SO LUONG KHACH HANG VA NGUOI BAN
+================================================================================
+
+1. Tong so don hang: 99,441
+
+2. Tong so luong khach hang: 102,727
+
+3. Tong so nguoi ban (sellers): 3,095
+
+================================================================================
+TOM TAT KET QUA
+================================================================================
+Don hang:         99,441
+Khach hang:      102,727
+Nguoi ban:         3,095
+================================================================================
+
+HOAN THANH BAI 02
+================================================================================

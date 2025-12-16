@@ -1,0 +1,50 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+25/12/16 10:42:01 WARN Utils: Your hostname, SelinaPhan, resolves to a loopback address: 127.0.1.1; using 10.255.255.254 instead (on interface lo)
+25/12/16 10:42:01 WARN Utils: Set SPARK_LOCAL_IP if you need to bind to another address
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/12/16 10:42:02 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[Stage 4:>                                                          (0 + 1) / 1]                                                                                [Stage 5:>                                                          (0 + 1) / 1]                                                                                ================================================================================
+BAI 03: PHAN TICH SO LUONG DON HANG THEO QUOC GIA
+SAP XEP THEO THU TU GIAM DAN
+================================================================================
+
+KET QUA PHAN TICH:
+--------------------------------------------------------------------------------
+Quoc gia                          So luong don hang
+--------------------------------------------------------------------------------
+Germany                                      41,754
+France                                       12,848
+Netherlands                                  11,629
+Belgium                                       5,464
+Austria                                       5,043
+Switzerland                                   3,640
+United Kingdom                                3,382
+Poland                                        2,139
+Czechia                                       2,034
+Italy                                         2,025
+Spain                                         1,651
+Portugal                                      1,336
+Sweden                                          975
+Denmark                                         905
+Serbia                                          746
+Norway                                          716
+Slovakia                                        534
+Slovenia                                        495
+Turkey                                          485
+Greece                                          412
+Lithuania                                       351
+Latvia                                          280
+Croatia                                         254
+Estonia                                         148
+Finland                                          81
+Luxembourg                                       68
+Andorra                                          46
+--------------------------------------------------------------------------------
+Tong so quoc gia: 27
+================================================================================
+
+HOAN THANH BAI 03
+================================================================================
